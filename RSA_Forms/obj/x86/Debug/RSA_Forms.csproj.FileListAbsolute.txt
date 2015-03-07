@@ -1,0 +1,11 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RSA_Forms\RSA_Forms\bin\Debug\RSA_Forms.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RSA_Forms\RSA_Forms\bin\Debug\RSA_Forms.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RSA_Forms\RSA_Forms\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RSA_Forms\RSA_Forms\obj\x86\Debug\RSA_Forms.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RSA_Forms\RSA_Forms\obj\x86\Debug\RSA_Forms.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RSA_Forms\RSA_Forms\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RSA_Forms\RSA_Forms\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RSA_Forms\RSA_Forms\obj\x86\Debug\RSA_Forms.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RSA_Forms\RSA_Forms\obj\x86\Debug\RSA_Forms.pdb
+X:\Sources\RSA_Forms\RSA_Forms\RSA_Forms\obj\x86\Debug\RSA_Forms.exe
+X:\Sources\RSA_Forms\RSA_Forms\RSA_Forms\obj\x86\Debug\RSA_Forms.pdb
